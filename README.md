@@ -1,4 +1,4 @@
-# 1 bot 10 asist 
+# 1 Admin 10 Assist 
 
 ------
 - UA = `Line/7.18.0`
